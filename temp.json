@@ -1,0 +1,844 @@
+[
+    {
+        "topicURL": "https://github.com/topics/twitter",
+        "repos": [
+            {
+                "repoURL": "https://github.com/huginn/huginn",
+                "issues": [
+                    {
+                        "IssueName": "User Webhook Agent to return Response to Dropbox Webhook Verification",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3021"
+                    },
+                    {
+                        "IssueName": "Heorku deployment failed",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3020"
+                    },
+                    {
+                        "IssueName": "[Paid request for help]有偿请求帮助：写一个FT网页监测配置(抓取、翻译、推送)",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3019"
+                    },
+                    {
+                        "IssueName": "chmod: changing permissions of '/app/.env': Operation not permitted",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3018"
+                    },
+                    {
+                        "IssueName": "Openshift deployment not working - mimemagic is not available",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3017"
+                    },
+                    {
+                        "IssueName": "y",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3016"
+                    },
+                    {
+                        "IssueName": "Parsing JSON results with either/or object?",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3015"
+                    },
+                    {
+                        "IssueName": "How do I force-stop a stuck job when using a Docker huginn?",
+                        "IssueURL": "https://github.com//huginn/huginn/issues/3013"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/DIYgod/RSSHub",
+                "issues": [
+                    {
+                        "IssueName": "Hpoi 手办维基 订阅源无法使用",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8216"
+                    },
+                    {
+                        "IssueName": "台灣衛生福利部",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8203"
+                    },
+                    {
+                        "IssueName": "香港衞生署 & 香港衞生防護中心",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8201"
+                    },
+                    {
+                        "IssueName": "希望能增加蓝鲸体育的主播房间开播提醒",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8198"
+                    },
+                    {
+                        "IssueName": "希望能增加企鹅直播的主播房间开播提醒",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8197"
+                    },
+                    {
+                        "IssueName": "通知公告-黑龙江中医药大学研究生院",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8195"
+                    },
+                    {
+                        "IssueName": "維基新聞—人人可編輯的自由新聞源",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8194"
+                    },
+                    {
+                        "IssueName": "Youtube RSS Bug",
+                        "IssueURL": "https://github.com//DIYgod/RSSHub/issues/8190"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/GorvGoyl/Clone-Wars",
+                "issues": [
+                    {
+                        "IssueName": "Zz",
+                        "IssueURL": "https://github.com//GorvGoyl/Clone-Wars/issues/130"
+                    },
+                    {
+                        "IssueName": "[Feature Requested] Would be possible to incorporate a chat community related to this repo? ",
+                        "IssueURL": "https://github.com//GorvGoyl/Clone-Wars/issues/129"
+                    },
+                    {
+                        "IssueName": "[Feature request] Table filtering, search, and sorting",
+                        "IssueURL": "https://github.com//GorvGoyl/Clone-Wars/issues/108"
+                    },
+                    {
+                        "IssueName": "Wakapi",
+                        "IssueURL": "https://github.com//GorvGoyl/Clone-Wars/issues/74"
+                    },
+                    {
+                        "IssueName": "Serious open-source alternatives",
+                        "IssueURL": "https://github.com//GorvGoyl/Clone-Wars/issues/66"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/twintproject/twint",
+                "issues": [
+                    {
+                        "IssueName": "Twint producing only 20 tweets",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1276"
+                    },
+                    {
+                        "IssueName": "[QUESTION] Multiple Search Terms / Boolean Searches",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1275"
+                    },
+                    {
+                        "IssueName": "Twint returns \"[!] No more data! Scraping will stop now\" in the beginning or the middle of a timeline for some days while working flawlessly for the others.",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1274"
+                    },
+                    {
+                        "IssueName": "Companies mentions",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1273"
+                    },
+                    {
+                        "IssueName": "[QUESTION] fatal: destination path 'twint' already exists and is not an empty directory.",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1271"
+                    },
+                    {
+                        "IssueName": "Inconsistent result in number of tweets results",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1270"
+                    },
+                    {
+                        "IssueName": "Error im getting \"CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0) sleeping for 216.0 secs\"",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1269"
+                    },
+                    {
+                        "IssueName": "Not Get User Location in Profile",
+                        "IssueURL": "https://github.com//twintproject/twint/issues/1268"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/tweepy/tweepy",
+                "issues": [
+                    {
+                        "IssueName": "Unable to post animated GIFs, documentation unclear",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1655"
+                    },
+                    {
+                        "IssueName": "auth.get_authorization_url() should support proxy like tweepy.API",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1647"
+                    },
+                    {
+                        "IssueName": "Documentation: Cursor Code Snippet and RateLimitError",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1618"
+                    },
+                    {
+                        "IssueName": "tweepy.errors.Forbidden when using Client.follow()",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1612"
+                    },
+                    {
+                        "IssueName": "User Stream Cursor method not getting correct number of items ",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1609"
+                    },
+                    {
+                        "IssueName": "Handle connection errors for requests made from API methods",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1606"
+                    },
+                    {
+                        "IssueName": "Rate limits remaining of Twitter API v2",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1580"
+                    },
+                    {
+                        "IssueName": "Calculate tweet weighted length",
+                        "IssueURL": "https://github.com//tweepy/tweepy/issues/1538"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/aritraroy/UltimateAndroidReference",
+                "issues": []
+            },
+            {
+                "repoURL": "https://github.com/maxbbraun/trump2cash",
+                "issues": [
+                    {
+                        "IssueName": "class diagrams and use cases ",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/66"
+                    },
+                    {
+                        "IssueName": "WE NEED ELON2CASH",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/65"
+                    },
+                    {
+                        "IssueName": "This was a fun ride.",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/64"
+                    },
+                    {
+                        "IssueName": "Idea",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/62"
+                    },
+                    {
+                        "IssueName": "Ally / Tradeking Forex",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/53"
+                    },
+                    {
+                        "IssueName": "Sell order when overall trade is above 10$",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/52"
+                    },
+                    {
+                        "IssueName": "Dump Data",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/49"
+                    },
+                    {
+                        "IssueName": "Would you make it possible to develop a trump2cash for FX trade as well?",
+                        "IssueURL": "https://github.com//maxbbraun/trump2cash/issues/45"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/abraham/twitteroauth",
+                "issues": [
+                    {
+                        "IssueName": "\"uploadMediaChunked\" takes long time to upload large media file",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/955"
+                    },
+                    {
+                        "IssueName": "How to add alt text for image uploads?",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/954"
+                    },
+                    {
+                        "IssueName": "How to get DM Media atchachment",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/838"
+                    },
+                    {
+                        "IssueName": "Sorry for this, 'Your credentials do not allow access to this resource', 'code' => 220",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/825"
+                    },
+                    {
+                        "IssueName": "Register Webhook Error Code 369: Invalid JSON Syntax",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/814"
+                    },
+                    {
+                        "IssueName": "Add error resilience in uploadMediaChunked method",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/774"
+                    },
+                    {
+                        "IssueName": "Media upload fails when user wants to decode json as array",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/756"
+                    },
+                    {
+                        "IssueName": "Can I reset the keys / token?",
+                        "IssueURL": "https://github.com//abraham/twitteroauth/issues/733"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicURL": "https://github.com/topics/windows",
+        "repos": [
+            {
+                "repoURL": "https://github.com/flutter/flutter",
+                "issues": [
+                    {
+                        "IssueName": "ListView in AnimatedCrossFade jumps to top",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90361"
+                    },
+                    {
+                        "IssueName": "Why the web console will output debugPrint log",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90360"
+                    },
+                    {
+                        "IssueName": "hot reload does not always work",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90358"
+                    },
+                    {
+                        "IssueName": "Unnecessary Chrome error on a Windows machine with Chromium Edge",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90357"
+                    },
+                    {
+                        "IssueName": "iOS: error ITMS-90208 on uploading archive to App Store",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90356"
+                    },
+                    {
+                        "IssueName": "Support oversized WidgetSpans in TextFields",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90355"
+                    },
+                    {
+                        "IssueName": "Dark mode elevation overlay color is only applied to Material of type canvas, when surface and background colors are equal",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90353"
+                    },
+                    {
+                        "IssueName": "Better discoverability of pop() on empty Navigation stack",
+                        "IssueURL": "https://github.com//flutter/flutter/issues/90351"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/jlevy/the-art-of-command-line",
+                "issues": [
+                    {
+                        "IssueName": "Add s5cmd to the section that mentions Amazon S3 utilities",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/741"
+                    },
+                    {
+                        "IssueName": "Y",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/740"
+                    },
+                    {
+                        "IssueName": "05/14/2021",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/737"
+                    },
+                    {
+                        "IssueName": "may be allow in ur guidelines ",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/736"
+                    },
+                    {
+                        "IssueName": "Mention pipr",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/732"
+                    },
+                    {
+                        "IssueName": "Do we need the Contributor Over Time chart?",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/729"
+                    },
+                    {
+                        "IssueName": "make test-short",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/728"
+                    },
+                    {
+                        "IssueName": "Clone",
+                        "IssueURL": "https://github.com//jlevy/the-art-of-command-line/issues/726"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/nodejs/node",
+                "issues": [
+                    {
+                        "IssueName": "Test failures in 16.9.1 on Linux/rv64",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40152"
+                    },
+                    {
+                        "IssueName": "performanceEntry.details is actually detail IRL",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40149"
+                    },
+                    {
+                        "IssueName": "Typings for primordials don't work anymore",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40144"
+                    },
+                    {
+                        "IssueName": ".toLocaleDateString() method options { minute: \"2-digit\" } and { second: \"2-digit\" } return single digit values",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40141"
+                    },
+                    {
+                        "IssueName": "CTRL-C does not quit readline when in infinte loop",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40140"
+                    },
+                    {
+                        "IssueName": "Whether the Inspecotor of thread worker can not be closed?",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40138"
+                    },
+                    {
+                        "IssueName": "Readable event triggers but  socket.readableLength  returns zero",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40136"
+                    },
+                    {
+                        "IssueName": "Exclude AbortError from unhandled rejections?",
+                        "IssueURL": "https://github.com//nodejs/node/issues/40120"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/microsoft/PowerToys",
+                "issues": [
+                    {
+                        "IssueName": "fancyzones settings will not be saved",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13307"
+                    },
+                    {
+                        "IssueName": "Fancyzone default layout reset once in a while",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13306"
+                    },
+                    {
+                        "IssueName": "FancyZones - Make layout default for specified monitor, across monitors.",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13305"
+                    },
+                    {
+                        "IssueName": "FancyZones stops working at system boot up until its disabled and re-enabled again",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13304"
+                    },
+                    {
+                        "IssueName": "Something went wrong",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13303"
+                    },
+                    {
+                        "IssueName": "Hold Remapped Page Up key does not work",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13302"
+                    },
+                    {
+                        "IssueName": "[Settings] Create CheckBoxWithDescriptionText control",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13301"
+                    },
+                    {
+                        "IssueName": "Fancy Zones forgets custom template choice on wake from hibernation",
+                        "IssueURL": "https://github.com//microsoft/PowerToys/issues/13300"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/atom/atom",
+                "issues": [
+                    {
+                        "IssueName": "https://user-images.githubusercontent.com/90650040/133944972-ccdf805b-043a-40d6-Arte**-88ecd16d8dc5.jpg",
+                        "IssueURL": "https://github.com//atom/atom/issues/23004"
+                    },
+                    {
+                        "IssueName": "Problems editing UTF-16 .ini files",
+                        "IssueURL": "https://github.com//atom/atom/issues/23003"
+                    },
+                    {
+                        "IssueName": "Uncaught Error: dlopen(~/Downloads/atom-mac/Atom.app/Contents/Resources/app.asar.unpacked/node_mo...",
+                        "IssueURL": "https://github.com//atom/atom/issues/22996"
+                    },
+                    {
+                        "IssueName": "https://github.com/atom/atom/issues/22989#issue-998875707",
+                        "IssueURL": "https://github.com//atom/atom/issues/22990"
+                    },
+                    {
+                        "IssueName": "package-lock.json",
+                        "IssueURL": "https://github.com//atom/atom/issues/22989"
+                    },
+                    {
+                        "IssueName": "atom installed cant open",
+                        "IssueURL": "https://github.com//atom/atom/issues/22977"
+                    },
+                    {
+                        "IssueName": "MacOS title bar should allow file tools/manipulation",
+                        "IssueURL": "https://github.com//atom/atom/issues/22974"
+                    },
+                    {
+                        "IssueName": "Bootstrap syntax error",
+                        "IssueURL": "https://github.com//atom/atom/issues/22969"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/x64dbg/x64dbg",
+                "issues": [
+                    {
+                        "IssueName": "GUI request",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2735"
+                    },
+                    {
+                        "IssueName": "Doesn't show heap memory",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2732"
+                    },
+                    {
+                        "IssueName": "Welcome tab",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2728"
+                    },
+                    {
+                        "IssueName": "Callstack view should use a different color for user call stack trace",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2727"
+                    },
+                    {
+                        "IssueName": "The labels shown in disassembly view should be undecorated",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2726"
+                    },
+                    {
+                        "IssueName": "Thread switch is logged every time the debuggee is restarted",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2725"
+                    },
+                    {
+                        "IssueName": "i have a question how can we load a dll in x64dbg ?i tried my best but can you tell me about this?one more thing this dll is used as a third party plugin",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2724"
+                    },
+                    {
+                        "IssueName": "How do I permanently set the Dump1 tab to show my EXE's \".data\" section?",
+                        "IssueURL": "https://github.com//x64dbg/x64dbg/issues/2721"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/alacritty/alacritty",
+                "issues": [
+                    {
+                        "IssueName": "Hint post processing crash",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5492"
+                    },
+                    {
+                        "IssueName": "[Feature request] Special handling of Block Elements (U+2580 - U+259F)",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5485"
+                    },
+                    {
+                        "IssueName": "Occasional state where most-recent keypress is repeated indefinitely",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5471"
+                    },
+                    {
+                        "IssueName": "Vi mode search does not start at cursor",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5460"
+                    },
+                    {
+                        "IssueName": "Some Key Bindings Not Working on Linux",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5452"
+                    },
+                    {
+                        "IssueName": "Font size selected at random ",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5449"
+                    },
+                    {
+                        "IssueName": "memory usage",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5438"
+                    },
+                    {
+                        "IssueName": "Copying text from Alacritty doesn't work intermittently",
+                        "IssueURL": "https://github.com//alacritty/alacritty/issues/5398"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/GitSquared/edex-ui",
+                "issues": [
+                    {
+                        "IssueName": "no network connection on macOS",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1171"
+                    },
+                    {
+                        "IssueName": "Using A LOT of cpu",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1169"
+                    },
+                    {
+                        "IssueName": "edex-ui does not start, stuck on 'Settings loaded!'",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1168"
+                    },
+                    {
+                        "IssueName": "Folder names ending with file extension treated as files",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1167"
+                    },
+                    {
+                        "IssueName": "Why is this prompt?",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1165"
+                    },
+                    {
+                        "IssueName": "21:9 Screen Aspect ratio the net. traffic status graph overlaps the keyboard/file browser",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1162"
+                    },
+                    {
+                        "IssueName": "Password mode reveals keystrokes on OS X",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1160"
+                    },
+                    {
+                        "IssueName": "edex showing OFFLINE on the network traffic graphics ",
+                        "IssueURL": "https://github.com//GitSquared/edex-ui/issues/1155"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicURL": "https://github.com/topics/angular",
+        "repos": [
+            {
+                "repoURL": "https://github.com/justjavac/free-programming-books-zh_CN",
+                "issues": [
+                    {
+                        "IssueName": "[Python 官方文档中文版]链接不能正常访问",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/842"
+                    },
+                    {
+                        "IssueName": "Create ANDROID_SDK_ROOT",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/841"
+                    },
+                    {
+                        "IssueName": "Merge pull request #1 from justjavac/master",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/839"
+                    },
+                    {
+                        "IssueName": "add book 《通过测试驱动开发学习 Go 语言》",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/837"
+                    },
+                    {
+                        "IssueName": "python 模块部分书籍链接失效的woried标记",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/836"
+                    },
+                    {
+                        "IssueName": "add worried to 背包问题九讲",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/835"
+                    },
+                    {
+                        "IssueName": "Android Design(中文版) 链接不能正常访问",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/834"
+                    },
+                    {
+                        "IssueName": "docs: add go源码剖析",
+                        "IssueURL": "https://github.com//justjavac/free-programming-books-zh_CN/pull/833"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/angular/angular",
+                "issues": [
+                    {
+                        "IssueName": "a11y (accessibility) of \"open in new window\" link icons",
+                        "IssueURL": "https://github.com//angular/angular/issues/43512"
+                    },
+                    {
+                        "IssueName": "ngTemplateOutletContext not checked strictly in template",
+                        "IssueURL": "https://github.com//angular/angular/issues/43510"
+                    },
+                    {
+                        "IssueName": "Asynch Validator is firing API call when it is attached to a formcontrol",
+                        "IssueURL": "https://github.com//angular/angular/issues/43509"
+                    },
+                    {
+                        "IssueName": "Allow components to provide custom ErrorHandler",
+                        "IssueURL": "https://github.com//angular/angular/issues/43504"
+                    },
+                    {
+                        "IssueName": "Documentation on creating dynamic forms doesn't specify a type for the button that adds an alias control",
+                        "IssueURL": "https://github.com//angular/angular/issues/43501"
+                    },
+                    {
+                        "IssueName": "Bug with section @LOVED BY MILLIONS@ in Safari",
+                        "IssueURL": "https://github.com//angular/angular/issues/43498"
+                    },
+                    {
+                        "IssueName": "Angular dev mode errors with a strict CSP without unsafe-eval",
+                        "IssueURL": "https://github.com//angular/angular/issues/43494"
+                    },
+                    {
+                        "IssueName": "feat(compiler): improvements to the Angular expression syntax",
+                        "IssueURL": "https://github.com//angular/angular/issues/43485"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/storybookjs/storybook",
+                "issues": [
+                    {
+                        "IssueName": "CLI: Upgrade CLI templates to CSF3",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16100"
+                    },
+                    {
+                        "IssueName": "MUI5 and storybook mixes the theme if rendering Docs - which cause an exception",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16099"
+                    },
+                    {
+                        "IssueName": "Fails to compile and run storybook: ModuleNotFound: OverlayScrollbars.js",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16096"
+                    },
+                    {
+                        "IssueName": "Missing preset code in the preset docs",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16094"
+                    },
+                    {
+                        "IssueName": "Security warning on react-dev-utils that depends on immer",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16093"
+                    },
+                    {
+                        "IssueName": "Webpack5: Support lazy compilation",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16087"
+                    },
+                    {
+                        "IssueName": "dotenv-webpack ^7.0.0 in webpack5 config has dangerous defaults",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16086"
+                    },
+                    {
+                        "IssueName": "Vue: changing controls in addon-docs does not work",
+                        "IssueURL": "https://github.com//storybookjs/storybook/issues/16081"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/ionic-team/ionic-framework",
+                "issues": [
+                    {
+                        "IssueName": "bug: Ionicons not showing up on iOS device with ionicons 5 and ionic 5 bug: ",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23950"
+                    },
+                    {
+                        "IssueName": "feat: Target Android SDK API Level 30 for new cordova apps",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23949"
+                    },
+                    {
+                        "IssueName": "bug: overlays block scroll as soon as they are created, even if they do not get presented",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23942"
+                    },
+                    {
+                        "IssueName": "bug: toast overlaps fab at bottom",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23938"
+                    },
+                    {
+                        "IssueName": "bug: ionic 6 white screen on android 11 ",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23933"
+                    },
+                    {
+                        "IssueName": "feat: Normalize CSS padding",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23928"
+                    },
+                    {
+                        "IssueName": "bug: sheet style modal stuff (again 😅)",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23923"
+                    },
+                    {
+                        "IssueName": "feat: Allow data-testid on <IonSelectOption> to run unit test in the interface",
+                        "IssueURL": "https://github.com//ionic-team/ionic-framework/issues/23921"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/leonardomso/33-js-concepts",
+                "issues": [
+                    {
+                        "IssueName": "A minimal Website maybe a great feature :)",
+                        "IssueURL": "https://github.com//leonardomso/33-js-concepts/issues/170"
+                    },
+                    {
+                        "IssueName": "Video unavailable",
+                        "IssueURL": "https://github.com//leonardomso/33-js-concepts/issues/168"
+                    },
+                    {
+                        "IssueName": "to make it bangla",
+                        "IssueURL": "https://github.com//leonardomso/33-js-concepts/issues/165"
+                    },
+                    {
+                        "IssueName": "Along with the current articles and videos, add an exercises section",
+                        "IssueURL": "https://github.com//leonardomso/33-js-concepts/issues/141"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/prettier/prettier",
+                "issues": [
+                    {
+                        "IssueName": "Love",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11554"
+                    },
+                    {
+                        "IssueName": "Special treatment of package.json is apparently undocumented",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11553"
+                    },
+                    {
+                        "IssueName": "Incorrect report and fix of export type T = null!",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11552"
+                    },
+                    {
+                        "IssueName": "Block alignment - https://github.com/prettier/prettier/issues/188",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11536"
+                    },
+                    {
+                        "IssueName": "Inconsistency comment printing for type alias and union types between TypeScript and Flow",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11526"
+                    },
+                    {
+                        "IssueName": "Prettier breaks Vue code",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11523"
+                    },
+                    {
+                        "IssueName": "Prettier inserts two spaces before single-line comment",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11521"
+                    },
+                    {
+                        "IssueName": "Changing string literals!! (breaking styled) ",
+                        "IssueURL": "https://github.com//prettier/prettier/issues/11518"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/SheetJS/sheetjs",
+                "issues": [
+                    {
+                        "IssueName": "ODS Column Properties",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2378"
+                    },
+                    {
+                        "IssueName": "Custom Number Format with \"cellText: false, cellDates: true\" broken",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2349"
+                    },
+                    {
+                        "IssueName": "Demo Broken",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2337"
+                    },
+                    {
+                        "IssueName": " Codepage option is not working when reading csv as base64",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2334"
+                    },
+                    {
+                        "IssueName": "Stream doesn't emit an end event on empty rows(at the end of the file) with blankrows set to false (Solution provided)",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2318"
+                    },
+                    {
+                        "IssueName": "ArrayBuffer not being supported correctly",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2316"
+                    },
+                    {
+                        "IssueName": "External links not preserved when writing out xlsx",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2306"
+                    },
+                    {
+                        "IssueName": "dateNF is getting ignored for XLS file",
+                        "IssueURL": "https://github.com//SheetJS/sheetjs/issues/2305"
+                    }
+                ]
+            },
+            {
+                "repoURL": "https://github.com/angular/angular-cli",
+                "issues": [
+                    {
+                        "IssueName": "Webpack loaders stop working inline after upgrade to Angular 9",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21762"
+                    },
+                    {
+                        "IssueName": "Template type checking re-builds do not run correctly when referencing a re-exported type",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21757"
+                    },
+                    {
+                        "IssueName": "ng generate guard does not let you choose interfaces",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21755"
+                    },
+                    {
+                        "IssueName": "Tailwind JIT not detecting changes (Angular 12).",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21749"
+                    },
+                    {
+                        "IssueName": "ng s and ng b commands are very slow on Windows 10",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21731"
+                    },
+                    {
+                        "IssueName": "Re-compilation failed on external import changes",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21727"
+                    },
+                    {
+                        "IssueName": "Build tree shaking do not remove every unused code ",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21725"
+                    },
+                    {
+                        "IssueName": "CSS inlining bug when using an @import statement with a url that contains a semi-colon",
+                        "IssueURL": "https://github.com//angular/angular-cli/issues/21721"
+                    }
+                ]
+            }
+        ]
+    }
+]
